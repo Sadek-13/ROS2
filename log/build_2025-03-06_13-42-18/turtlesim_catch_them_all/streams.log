@@ -1,0 +1,16 @@
+[1.002s] Invoking command in '/home/golam_sadek/ros2_ws/build/turtlesim_catch_them_all': PYTHONPATH=/home/golam_sadek/ros2_ws/build/turtlesim_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/golam_sadek/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/golam_sadek/ros2_ws/build/turtlesim_catch_them_all/build --no-deps symlink_data
+[1.237s] running develop
+[1.372s] running egg_info
+[1.372s] writing turtlesim_catch_them_all.egg-info/PKG-INFO
+[1.373s] writing dependency_links to turtlesim_catch_them_all.egg-info/dependency_links.txt
+[1.373s] writing entry points to turtlesim_catch_them_all.egg-info/entry_points.txt
+[1.373s] writing requirements to turtlesim_catch_them_all.egg-info/requires.txt
+[1.373s] writing top-level names to turtlesim_catch_them_all.egg-info/top_level.txt
+[1.376s] reading manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[1.377s] writing manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[1.379s] running build_ext
+[1.379s] Creating /home/golam_sadek/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim-catch-them-all.egg-link (link to .)
+[1.381s] 
+[1.381s] Installed /home/golam_sadek/ros2_ws/build/turtlesim_catch_them_all
+[1.381s] running symlink_data
+[1.423s] Invoked command in '/home/golam_sadek/ros2_ws/build/turtlesim_catch_them_all' returned '0': PYTHONPATH=/home/golam_sadek/ros2_ws/build/turtlesim_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/golam_sadek/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/golam_sadek/ros2_ws/build/turtlesim_catch_them_all/build --no-deps symlink_data

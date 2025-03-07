@@ -1,0 +1,42 @@
+[0.010s] Invoking command in '/home/golam_sadek/ros2_ws/build/my_robot1_bringup': AMENT_PREFIX_PATH=/home/golam_sadek/ros2_ws/install/my_robot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/golam_sadek/ros2_ws/install/my_robot_description:/opt/ros/humble /usr/bin/cmake /home/golam_sadek/ros2_ws/src/my_robot1_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/golam_sadek/ros2_ws/install/my_robot1_bringup
+[0.082s] -- The C compiler identification is GNU 11.4.0
+[0.154s] -- The CXX compiler identification is GNU 11.4.0
+[0.166s] -- Detecting C compiler ABI info
+[0.241s] -- Detecting C compiler ABI info - done
+[0.249s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.250s] -- Detecting C compile features
+[0.250s] -- Detecting C compile features - done
+[0.253s] -- Detecting CXX compiler ABI info
+[0.344s] -- Detecting CXX compiler ABI info - done
+[0.355s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.355s] -- Detecting CXX compile features
+[0.355s] -- Detecting CXX compile features - done
+[0.356s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.569s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.683s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.867s] -- Configuring done
+[0.871s] -- Generating done
+[0.873s] -- Build files have been written to: /home/golam_sadek/ros2_ws/build/my_robot1_bringup
+[0.883s] Invoked command in '/home/golam_sadek/ros2_ws/build/my_robot1_bringup' returned '0': AMENT_PREFIX_PATH=/home/golam_sadek/ros2_ws/install/my_robot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/golam_sadek/ros2_ws/install/my_robot_description:/opt/ros/humble /usr/bin/cmake /home/golam_sadek/ros2_ws/src/my_robot1_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/golam_sadek/ros2_ws/install/my_robot1_bringup
+[0.889s] Invoking command in '/home/golam_sadek/ros2_ws/build/my_robot1_bringup': AMENT_PREFIX_PATH=/home/golam_sadek/ros2_ws/install/my_robot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/golam_sadek/ros2_ws/install/my_robot_description:/opt/ros/humble /usr/bin/cmake --build /home/golam_sadek/ros2_ws/build/my_robot1_bringup -- -j8 -l8
+[0.945s] Invoked command in '/home/golam_sadek/ros2_ws/build/my_robot1_bringup' returned '0': AMENT_PREFIX_PATH=/home/golam_sadek/ros2_ws/install/my_robot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/golam_sadek/ros2_ws/install/my_robot_description:/opt/ros/humble /usr/bin/cmake --build /home/golam_sadek/ros2_ws/build/my_robot1_bringup -- -j8 -l8
+[0.946s] Invoking command in '/home/golam_sadek/ros2_ws/build/my_robot1_bringup': AMENT_PREFIX_PATH=/home/golam_sadek/ros2_ws/install/my_robot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/golam_sadek/ros2_ws/install/my_robot_description:/opt/ros/humble /usr/bin/cmake --install /home/golam_sadek/ros2_ws/build/my_robot1_bringup
+[0.956s] -- Install configuration: ""
+[0.957s] -- Execute custom install script
+[0.969s] -- Symlinking: /home/golam_sadek/ros2_ws/install/my_robot1_bringup/share/my_robot1_bringup//launch/my_robot_gazebo.launch.xml
+[0.976s] -- Symlinking: /home/golam_sadek/ros2_ws/install/my_robot1_bringup/share/ament_index/resource_index/package_run_dependencies/my_robot1_bringup
+[0.988s] -- Symlinking: /home/golam_sadek/ros2_ws/install/my_robot1_bringup/share/ament_index/resource_index/parent_prefix_path/my_robot1_bringup
+[1.007s] -- Symlinking: /home/golam_sadek/ros2_ws/install/my_robot1_bringup/share/my_robot1_bringup/environment/ament_prefix_path.sh
+[1.018s] -- Symlinking: /home/golam_sadek/ros2_ws/install/my_robot1_bringup/share/my_robot1_bringup/environment/ament_prefix_path.dsv
+[1.034s] -- Symlinking: /home/golam_sadek/ros2_ws/install/my_robot1_bringup/share/my_robot1_bringup/environment/path.sh
+[1.052s] -- Symlinking: /home/golam_sadek/ros2_ws/install/my_robot1_bringup/share/my_robot1_bringup/environment/path.dsv
+[1.070s] -- Symlinking: /home/golam_sadek/ros2_ws/install/my_robot1_bringup/share/my_robot1_bringup/local_setup.bash
+[1.087s] -- Symlinking: /home/golam_sadek/ros2_ws/install/my_robot1_bringup/share/my_robot1_bringup/local_setup.sh
+[1.101s] -- Symlinking: /home/golam_sadek/ros2_ws/install/my_robot1_bringup/share/my_robot1_bringup/local_setup.zsh
+[1.119s] -- Symlinking: /home/golam_sadek/ros2_ws/install/my_robot1_bringup/share/my_robot1_bringup/local_setup.dsv
+[1.136s] -- Symlinking: /home/golam_sadek/ros2_ws/install/my_robot1_bringup/share/my_robot1_bringup/package.dsv
+[1.154s] -- Symlinking: /home/golam_sadek/ros2_ws/install/my_robot1_bringup/share/ament_index/resource_index/packages/my_robot1_bringup
+[1.181s] -- Symlinking: /home/golam_sadek/ros2_ws/install/my_robot1_bringup/share/my_robot1_bringup/cmake/my_robot1_bringupConfig.cmake
+[1.207s] -- Symlinking: /home/golam_sadek/ros2_ws/install/my_robot1_bringup/share/my_robot1_bringup/cmake/my_robot1_bringupConfig-version.cmake
+[1.227s] -- Symlinking: /home/golam_sadek/ros2_ws/install/my_robot1_bringup/share/my_robot1_bringup/package.xml
+[1.267s] Invoked command in '/home/golam_sadek/ros2_ws/build/my_robot1_bringup' returned '0': AMENT_PREFIX_PATH=/home/golam_sadek/ros2_ws/install/my_robot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/golam_sadek/ros2_ws/install/my_robot_description:/opt/ros/humble /usr/bin/cmake --install /home/golam_sadek/ros2_ws/build/my_robot1_bringup

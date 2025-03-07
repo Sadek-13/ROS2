@@ -1,0 +1,1 @@
+/home/golam_sadek/ros2_ws/src/my_robot_description/urdf/install/setup.sh

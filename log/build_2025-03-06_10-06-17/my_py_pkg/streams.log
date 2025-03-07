@@ -1,0 +1,66 @@
+[1.022s] Invoking command in '/home/golam_sadek/ros2_ws/build/my_py_pkg': PYTHONPATH=/home/golam_sadek/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/golam_sadek/ros2_ws/build/my_py_pkg/build
+[1.308s] running develop
+[1.458s] Removing /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[1.497s] Invoked command in '/home/golam_sadek/ros2_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/golam_sadek/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/golam_sadek/ros2_ws/build/my_py_pkg/build
+[1.500s] Invoking command in '/home/golam_sadek/ros2_ws/src/my_py_pkg': PYTHONPATH=/home/golam_sadek/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/golam_sadek/ros2_ws/build/my_py_pkg/build install --record /home/golam_sadek/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed install_data --force
+[1.768s] running egg_info
+[1.768s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[1.769s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[1.769s] writing entry points to ../../build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[1.769s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[1.769s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[1.771s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.772s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.772s] running build
+[1.772s] running build_py
+[1.772s] creating /home/golam_sadek/ros2_ws/build/my_py_pkg/build
+[1.772s] creating /home/golam_sadek/ros2_ws/build/my_py_pkg/build/lib
+[1.772s] creating /home/golam_sadek/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.772s] copying my_py_pkg/my_first_node.py -> /home/golam_sadek/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.773s] copying my_py_pkg/robot_news_station.py -> /home/golam_sadek/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.773s] copying my_py_pkg/smartphone.py -> /home/golam_sadek/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.773s] copying my_py_pkg/number_counter.py -> /home/golam_sadek/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.773s] copying my_py_pkg/add_two_ints_client_no_oop.py -> /home/golam_sadek/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.773s] copying my_py_pkg/add_two_ints_server.py -> /home/golam_sadek/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.773s] copying my_py_pkg/add_two_ints_client.py -> /home/golam_sadek/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.773s] copying my_py_pkg/number_publisher.py -> /home/golam_sadek/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.773s] copying my_py_pkg/templete_python_node.py -> /home/golam_sadek/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.774s] copying my_py_pkg/__init__.py -> /home/golam_sadek/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.774s] running install
+[1.774s] running install_lib
+[1.775s] creating /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.775s] copying /home/golam_sadek/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/my_first_node.py -> /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.775s] copying /home/golam_sadek/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/robot_news_station.py -> /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.775s] copying /home/golam_sadek/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/smartphone.py -> /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.776s] copying /home/golam_sadek/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/number_counter.py -> /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.776s] copying /home/golam_sadek/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/add_two_ints_client_no_oop.py -> /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.776s] copying /home/golam_sadek/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/add_two_ints_server.py -> /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.776s] copying /home/golam_sadek/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/add_two_ints_client.py -> /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.776s] copying /home/golam_sadek/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/number_publisher.py -> /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.776s] copying /home/golam_sadek/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/templete_python_node.py -> /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.776s] copying /home/golam_sadek/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/__init__.py -> /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.776s] byte-compiling /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/my_first_node.py to my_first_node.cpython-310.pyc
+[1.777s] byte-compiling /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/robot_news_station.py to robot_news_station.cpython-310.pyc
+[1.777s] byte-compiling /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/smartphone.py to smartphone.cpython-310.pyc
+[1.777s] byte-compiling /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/number_counter.py to number_counter.cpython-310.pyc
+[1.778s] byte-compiling /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/add_two_ints_client_no_oop.py to add_two_ints_client_no_oop.cpython-310.pyc
+[1.778s] byte-compiling /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/add_two_ints_server.py to add_two_ints_server.cpython-310.pyc
+[1.778s] byte-compiling /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/add_two_ints_client.py to add_two_ints_client.cpython-310.pyc
+[1.778s] byte-compiling /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/number_publisher.py to number_publisher.cpython-310.pyc
+[1.779s] byte-compiling /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/templete_python_node.py to templete_python_node.cpython-310.pyc
+[1.779s] byte-compiling /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/__init__.py to __init__.cpython-310.pyc
+[1.779s] running install_data
+[1.779s] copying resource/my_py_pkg -> /home/golam_sadek/ros2_ws/install/my_py_pkg/share/ament_index/resource_index/packages
+[1.779s] copying package.xml -> /home/golam_sadek/ros2_ws/install/my_py_pkg/share/my_py_pkg
+[1.780s] running install_egg_info
+[1.781s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info
+[1.782s] running install_scripts
+[1.802s] Installing add_two_ints_client_no_oop script to /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.802s] Installing add_two_ints_server script to /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.802s] Installing number_counter script to /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.803s] Installing number_publisher script to /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.803s] Installing py_node script to /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.803s] Installing robot_news_station script to /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.803s] Installing smartphone script to /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.803s] writing list of installed files to '/home/golam_sadek/ros2_ws/build/my_py_pkg/install.log'
+[1.836s] Invoked command in '/home/golam_sadek/ros2_ws/src/my_py_pkg' returned '0': PYTHONPATH=/home/golam_sadek/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/golam_sadek/ros2_ws/build/my_py_pkg/build install --record /home/golam_sadek/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed install_data --force

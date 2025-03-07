@@ -1,0 +1,23 @@
+[1.751s] Invoking command in '/home/golam_sadek/ros2_ws/build/my_py_pkg': PYTHONPATH=/home/golam_sadek/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/golam_sadek/ros2_ws/build/my_py_pkg/build --no-deps symlink_data
+[1.971s] running develop
+[2.101s] running egg_info
+[2.101s] writing my_py_pkg.egg-info/PKG-INFO
+[2.101s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[2.102s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[2.102s] writing requirements to my_py_pkg.egg-info/requires.txt
+[2.102s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[2.103s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[2.104s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[2.105s] running build_ext
+[2.105s] Creating /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[2.106s] Installing add_two_ints_client_no_oop script to /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.106s] Installing add_two_ints_server script to /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.107s] Installing number_counter script to /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.107s] Installing number_publisher script to /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.107s] Installing py_node script to /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.107s] Installing robot_news_station script to /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.107s] Installing smartphone script to /home/golam_sadek/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.107s] 
+[2.107s] Installed /home/golam_sadek/ros2_ws/build/my_py_pkg
+[2.107s] running symlink_data
+[2.135s] Invoked command in '/home/golam_sadek/ros2_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/golam_sadek/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/golam_sadek/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/golam_sadek/ros2_ws/build/my_py_pkg/build --no-deps symlink_data
