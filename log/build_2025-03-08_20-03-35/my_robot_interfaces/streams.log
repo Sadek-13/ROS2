@@ -1,0 +1,23 @@
+[0.249s] Invoking command in '/home/golam_sadek/ros2_ws/build/my_robot_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/golam_sadek/ros2_ws/build/my_robot_interfaces -- -j8 -l8
+[0.315s] [  3%] Built target my_robot_interfaces__cpp
+[0.315s] [ 12%] Built target my_robot_interfaces__rosidl_generator_c
+[0.330s] [ 12%] Built target ament_cmake_python_symlink_my_robot_interfaces
+[0.356s] [ 35%] Built target my_robot_interfaces__rosidl_typesupport_introspection_c
+[0.360s] [ 32%] Built target my_robot_interfaces__rosidl_typesupport_cpp
+[0.360s] [ 45%] Built target my_robot_interfaces__rosidl_typesupport_c
+[0.362s] [ 58%] Built target my_robot_interfaces__rosidl_typesupport_introspection_cpp
+[0.362s] [ 61%] Built target my_robot_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.365s] [ 70%] Built target my_robot_interfaces__rosidl_typesupport_fastrtps_c
+[0.389s] [ 70%] Built target my_robot_interfaces
+[0.416s] [ 74%] Built target my_robot_interfaces__py
+[0.444s] [ 80%] Built target my_robot_interfaces__rosidl_generator_py
+[0.474s] [ 87%] Built target my_robot_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[0.476s] [ 93%] Built target my_robot_interfaces__rosidl_typesupport_c__pyext
+[0.478s] [100%] Built target my_robot_interfaces__rosidl_typesupport_introspection_c__pyext
+[0.623s] running egg_info
+[0.623s] writing my_robot_interfaces.egg-info/PKG-INFO
+[0.623s] writing dependency_links to my_robot_interfaces.egg-info/dependency_links.txt
+[0.623s] writing top-level names to my_robot_interfaces.egg-info/top_level.txt
+[0.623s] reading manifest file 'my_robot_interfaces.egg-info/SOURCES.txt'
+[0.624s] writing manifest file 'my_robot_interfaces.egg-info/SOURCES.txt'
+[0.673s] [100%] Built target ament_cmake_python_build_my_robot_interfaces_egg
