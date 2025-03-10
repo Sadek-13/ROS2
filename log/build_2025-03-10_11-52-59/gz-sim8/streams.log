@@ -1,0 +1,21 @@
+[1.384s] Invoking command in '/home/golam_sadek/ros2_ws/build/gz-sim8': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/golam_sadek/ros2_ws/install/turtlesim_catch_them_all:/home/golam_sadek/ros2_ws/install/my_robot_description:/home/golam_sadek/ros2_ws/install/my_py_pkg:/home/golam_sadek/ros2_ws/install/my_cpp_pkg:/opt/ros/humble /usr/bin/cmake /home/golam_sadek/ros2_ws/gz-sim-gz-sim8 -DCMAKE_INSTALL_PREFIX=/home/golam_sadek/ros2_ws/install/gz-sim8
+[1.414s] [31mCMake Error at CMakeLists.txt:13 (find_package):
+[1.414s]   By not providing "Findgz-cmake3.cmake" in CMAKE_MODULE_PATH this project
+[1.414s]   has asked CMake to find a package configuration file provided by
+[1.414s]   "gz-cmake3", but CMake did not find one.
+[1.414s] 
+[1.415s]   Could not find a package configuration file provided by "gz-cmake3" with
+[1.415s]   any of the following names:
+[1.415s] 
+[1.415s]     gz-cmake3Config.cmake
+[1.415s]     gz-cmake3-config.cmake
+[1.415s] 
+[1.415s]   Add the installation prefix of "gz-cmake3" to CMAKE_PREFIX_PATH or set
+[1.415s]   "gz-cmake3_DIR" to a directory containing one of the above files.  If
+[1.415s]   "gz-cmake3" provides a separate development package or SDK, be sure it has
+[1.415s]   been installed.
+[1.415s] 
+[1.416s] [0m
+[1.416s] -- Configuring incomplete, errors occurred!
+[1.416s] See also "/home/golam_sadek/ros2_ws/build/gz-sim8/CMakeFiles/CMakeOutput.log".
+[1.718s] Invoked command in '/home/golam_sadek/ros2_ws/build/gz-sim8' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/golam_sadek/ros2_ws/install/turtlesim_catch_them_all:/home/golam_sadek/ros2_ws/install/my_robot_description:/home/golam_sadek/ros2_ws/install/my_py_pkg:/home/golam_sadek/ros2_ws/install/my_cpp_pkg:/opt/ros/humble /usr/bin/cmake /home/golam_sadek/ros2_ws/gz-sim-gz-sim8 -DCMAKE_INSTALL_PREFIX=/home/golam_sadek/ros2_ws/install/gz-sim8

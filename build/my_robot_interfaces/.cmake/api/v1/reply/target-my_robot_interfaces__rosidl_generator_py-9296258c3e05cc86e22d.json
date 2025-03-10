@@ -239,12 +239,12 @@
 	"dependencies" : 
 	[
 		{
-			"backtrace" : 11,
-			"id" : "my_robot_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df"
-		},
-		{
 			"backtrace" : 12,
 			"id" : "my_robot_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "my_robot_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 12,

@@ -1,0 +1,59 @@
+[1.384s] Invoking command in '/home/golam_sadek/ros2_ws/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/golam_sadek/ros2_ws/install/turtlesim_catch_them_all:/home/golam_sadek/ros2_ws/install/my_robot_description:/home/golam_sadek/ros2_ws/install/my_py_pkg:/home/golam_sadek/ros2_ws/install/my_cpp_pkg:/opt/ros/humble /usr/bin/cmake --build /home/golam_sadek/ros2_ws/build/my_robot_description -- -j8 -l8
+[1.708s] Invoked command in '/home/golam_sadek/ros2_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/golam_sadek/ros2_ws/install/turtlesim_catch_them_all:/home/golam_sadek/ros2_ws/install/my_robot_description:/home/golam_sadek/ros2_ws/install/my_py_pkg:/home/golam_sadek/ros2_ws/install/my_cpp_pkg:/opt/ros/humble /usr/bin/cmake --build /home/golam_sadek/ros2_ws/build/my_robot_description -- -j8 -l8
+[1.718s] Invoking command in '/home/golam_sadek/ros2_ws/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/golam_sadek/ros2_ws/install/turtlesim_catch_them_all:/home/golam_sadek/ros2_ws/install/my_robot_description:/home/golam_sadek/ros2_ws/install/my_py_pkg:/home/golam_sadek/ros2_ws/install/my_cpp_pkg:/opt/ros/humble /usr/bin/cmake --install /home/golam_sadek/ros2_ws/build/my_robot_description
+[1.728s] [33mCMake Warning (dev) at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:62 (file):
+[1.728s]   Policy CMP0009 is not set: FILE GLOB_RECURSE calls should not follow
+[1.728s]   symlinks by default.  Run "cmake --help-policy CMP0009" for policy details.
+[1.729s]   Use the cmake_policy command to set the policy and suppress this warning.
+[1.729s] Call Stack (most recent call first):
+[1.729s]   ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:314 (ament_cmake_symlink_install_directory)
+[1.729s]   cmake_install.cmake:46 (include)
+[1.729s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[1.729s] [0m
+[1.732s] -- Install configuration: ""
+[1.732s] -- Execute custom install script
+[1.732s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/build/.built_by
+[1.732s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/build/COLCON_IGNORE
+[1.733s] -- Symlinking: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/camera.xacro
+[1.752s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/common_properties.xacro
+[1.752s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/.colcon_install_layout
+[1.752s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/COLCON_IGNORE
+[1.753s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/_local_setup_util_ps1.py
+[1.753s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/_local_setup_util_sh.py
+[1.753s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/local_setup.bash
+[1.753s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/local_setup.ps1
+[1.753s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/local_setup.sh
+[1.753s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/local_setup.zsh
+[1.759s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/setup.bash
+[1.759s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/setup.ps1
+[1.760s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/setup.sh
+[1.761s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/setup.zsh
+[1.761s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/log/COLCON_IGNORE
+[1.761s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/log/build_2025-02-19_14-46-33/events.log
+[1.763s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/log/build_2025-02-19_14-46-33/logger_all.log
+[1.763s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/log/latest/events.log
+[1.764s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/log/latest/logger_all.log
+[1.764s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/log/latest_build/events.log
+[1.764s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/log/latest_build/logger_all.log
+[1.764s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/mobile_base.xacro
+[1.764s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/mobile_base_gazebo.xacro
+[1.764s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf
+[1.764s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf.xacro
+[1.765s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//launch/display.launch.py
+[1.765s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//launch/display.launch.xml
+[1.765s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//rviz/urdf_config.rviz
+[1.765s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+[1.765s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+[1.765s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+[1.765s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+[1.765s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description/environment/path.sh
+[1.765s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description/environment/path.dsv
+[1.765s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.bash
+[1.766s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.sh
+[1.766s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.zsh
+[1.766s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.dsv
+[1.766s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description/package.dsv
+[1.766s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+[1.766s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+[1.766s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+[1.767s] -- Up-to-date symlink: /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description/package.xml
