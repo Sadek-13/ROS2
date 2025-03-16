@@ -1,3 +1,5 @@
+/home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/arm.xacro
+/home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/arm_gazebo.xacro
 /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/build/.built_by
 /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/build/COLCON_IGNORE
 /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/camera.xacro
@@ -25,6 +27,7 @@
 /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/mobile_base_gazebo.xacro
 /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf
 /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf.xacro
+/home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/standalone_arm.urdf.xacro
 /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//launch/display.launch.py
 /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//launch/display.launch.xml
 /home/golam_sadek/ros2_ws/install/my_robot_description/share/my_robot_description//rviz/urdf_config.rviz

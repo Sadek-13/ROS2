@@ -1,0 +1,23 @@
+[0.239s] Invoking command in '/home/golam_sadek/ros2_ws/build/my_robot_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/golam_sadek/ros2_ws/install/turtlesim_catch_them_all:/home/golam_sadek/ros2_ws/install/my_robot_description:/home/golam_sadek/ros2_ws/install/my_py_pkg:/home/golam_sadek/ros2_ws/install/my_cpp_pkg:/opt/ros/humble /usr/bin/cmake --build /home/golam_sadek/ros2_ws/build/my_robot_interfaces -- -j8 -l8
+[0.297s] [  6%] Built target my_robot_interfaces__cpp
+[0.297s] [ 12%] Built target my_robot_interfaces__rosidl_generator_c
+[0.308s] [ 12%] Built target ament_cmake_python_symlink_my_robot_interfaces
+[0.336s] [ 22%] Built target my_robot_interfaces__rosidl_typesupport_cpp
+[0.336s] [ 32%] Built target my_robot_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.343s] [ 41%] Built target my_robot_interfaces__rosidl_typesupport_introspection_cpp
+[0.346s] [ 51%] Built target my_robot_interfaces__rosidl_typesupport_fastrtps_c
+[0.347s] [ 61%] Built target my_robot_interfaces__rosidl_typesupport_introspection_c
+[0.357s] [ 70%] Built target my_robot_interfaces__rosidl_typesupport_c
+[0.380s] [ 70%] Built target my_robot_interfaces
+[0.405s] [ 74%] Built target my_robot_interfaces__py
+[0.430s] [ 80%] Built target my_robot_interfaces__rosidl_generator_py
+[0.457s] [ 87%] Built target my_robot_interfaces__rosidl_typesupport_c__pyext
+[0.460s] [ 93%] Built target my_robot_interfaces__rosidl_typesupport_introspection_c__pyext
+[0.464s] [100%] Built target my_robot_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[0.617s] running egg_info
+[0.617s] writing my_robot_interfaces.egg-info/PKG-INFO
+[0.617s] writing dependency_links to my_robot_interfaces.egg-info/dependency_links.txt
+[0.617s] writing top-level names to my_robot_interfaces.egg-info/top_level.txt
+[0.617s] reading manifest file 'my_robot_interfaces.egg-info/SOURCES.txt'
+[0.617s] writing manifest file 'my_robot_interfaces.egg-info/SOURCES.txt'
+[0.655s] [100%] Built target ament_cmake_python_build_my_robot_interfaces_egg

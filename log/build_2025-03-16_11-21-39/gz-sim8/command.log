@@ -1,0 +1,2 @@
+Invoking command in '/home/golam_sadek/ros2_ws/build/gz-sim8': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/golam_sadek/ros2_ws/gz-sim-gz-sim8 -DCMAKE_INSTALL_PREFIX=/home/golam_sadek/ros2_ws/install/gz-sim8
+Invoked command in '/home/golam_sadek/ros2_ws/build/gz-sim8' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/golam_sadek/ros2_ws/gz-sim-gz-sim8 -DCMAKE_INSTALL_PREFIX=/home/golam_sadek/ros2_ws/install/gz-sim8
